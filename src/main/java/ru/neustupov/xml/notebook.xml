@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<!DOCTYPE notebook SYSTEM >
+<notebook>
+  <person>
+
+    <name>
+      <first-name>Иван</first-name>
+      <second-name>Петрович</second-name>
+      <last-name>Сидоров</last-name>
+    </name>
+
+    <birthday>25.03.1977</birthday>
+
+    <address>
+      <street>Садовая, 23-15</street>
+      <City>Урюпинск</City>
+      <zip>123456</zip>
+    </address>
+
+    <phone-list>
+      <work-phone>1236547</work-phone>
+      <work-phone>9874561</work-phone>
+      <home-phone>6541236</home-phone>
+    </phone-list>
+
+  </person>
+
+  <person>
+
+    <name>
+      <first-name>Мария</first-name>
+      <second-name>Петровна</second-name>
+      <last-name>Сидорова</last-name>
+    </name>
+
+    <birthday>21.05.1988</birthday>
+
+    <address>
+      <street>Ягодная 17</street>
+      <City>Жмеринка</City>
+      <zip>357896</zip>
+    </address>
+
+    <phone-list>
+      <home-phone>8954756</home-phone>
+    </phone-list>
+
+  </person>
+</notebook>
